@@ -32,7 +32,7 @@ If you want, I can also:
 - Add a Traefik example for TLS and Let’s Encrypt.
 - Add Redis or n8n worker services for scaling.
 
-If you are running **ollama** locally use the following base url as the credentials for the n8n ollama node:
+If you are running **ollama** locally on port 11434 (default) use the following base url as the credentials for the n8n ollama node:
   ```zsh
   http://host.docker.internal:11434
   ```
