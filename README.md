@@ -5,8 +5,8 @@ A basic docker compose to scuffold n8n projects
 
 **N8N Docker Setup**
 
-- **Purpose**: : Run n8n with Postgres and persistent volumes using Docker Compose.
-- **Files**: : `docker-compose.yml`, `.env`.
+- **Purpose**: Run n8n with Postgres and persistent volumes using Docker Compose.
+- **Files**: `docker-compose.yml`, `.env`.
 
 **Quick Start**
 
