@@ -1,3 +1,8 @@
+# n8n-docker-setup
+A basic docker compose to scuffold n8n projects
+
+---
+
 **N8N Docker Setup**
 
 - **Purpose**: : Run n8n with Postgres and persistent volumes using Docker Compose.
@@ -30,5 +35,3 @@ docker compose down
 If you want, I can also:
 - Add a Traefik example for TLS and Let’s Encrypt.
 - Add Redis or n8n worker services for scaling.
-# n8n-docker-setup
-A basic docker compose to scuffold n8n projects
